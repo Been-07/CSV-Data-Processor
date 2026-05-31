@@ -23,6 +23,8 @@ A Python tool to read CSV files, calculate Price × Quantity = Total, and save t
 
 ```bash
 # No external packages needed - just Python 3
+git clone https://github.com/Been-07/csv-data-processor.git
+cd csv-data-processor
 ```
 
 :rocket: Usage
